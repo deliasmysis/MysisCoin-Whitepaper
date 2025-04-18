@@ -1,6 +1,4 @@
-# MysisCoin-Whitepaper
-MYSIS Token Whitepaper
-
+MYSIS Token
 Launched in April 2025, MYSIS Token is a community-driven meme cryptocurrency deployed on the BNB Smart Chain. Inspired by the mysid shrimp, a small but highly adaptive sea creature, MYSIS reflects the values of simplicity, decentralization, and collective momentum within the decentralized finance (DeFi) ecosystem.
 
 MYSIS was developed as a lightweight, humorous, and meme-themed token with a serious underlying structure. It does not rely on venture capital, pre-mines, or private allocations. The token was launched transparently, with the ownership of its smart contract renounced and its initial liquidity locked on PancakeSwap, a leading decentralized exchange on the BNB Chain.
